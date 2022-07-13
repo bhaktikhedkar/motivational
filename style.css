@@ -25,3 +25,71 @@ pre{
     color: red;
     font-family: sans-serif;
 }
+@media screen and (min-width: 300px){
+    pre{font-size: 20px;}
+}
+@media screen and (min-width:300px) {
+    body{
+        background-image: url(https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/swirls-of-blue-smoke-on-a-black-background-danil-nikonov.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+    
+}
+@media screen and (min-width: 400px){
+    pre{font-size: 30px;}
+}
+@media screen and (min-width:400px) {
+    body{
+        background-image: url(https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/swirls-of-blue-smoke-on-a-black-background-danil-nikonov.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+    
+}
+@media screen and (min-width: 600px){
+    pre{font-size: 40px;}
+}
+@media screen and (min-width:600px) {
+    body{
+        background-image: url(https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/swirls-of-blue-smoke-on-a-black-background-danil-nikonov.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+    
+}
+@media screen and (min-width: 800px){
+    pre{font-size: 50px;}
+}
+@media screen and (min-width:800px) {
+    body{
+        background-image: url(https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/swirls-of-blue-smoke-on-a-black-background-danil-nikonov.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+    
+}
+@media screen and (min-width: 900px){
+    pre{font-size: 70px;}
+}
+@media screen and (min-width:900px) {
+    body{
+        background-image: url(https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/swirls-of-blue-smoke-on-a-black-background-danil-nikonov.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+        width: 90%;
+    }
+    
+}
+@media screen and (min-width: 1000px){
+    pre{font-size: 80px;}
+}
+@media screen and (min-width:1000px) {
+    body{
+        background-image: url(https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/swirls-of-blue-smoke-on-a-black-background-danil-nikonov.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+        width: 100%;
+    }
+    
+}
